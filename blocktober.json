@@ -1,1 +1,186 @@
-
+[
+    {
+        "team_name": "Revel",
+        "payment_timestamp": "Aug 11, 2025 12:00 pm EDT"
+    },
+    {
+        "team_name": "Corrupt Esports",
+        "payment_timestamp": "Aug 11, 2025 12:00 pm EDT"
+    },
+    {
+        "team_name": "Team Factor",
+        "payment_timestamp": "Aug 11, 2025 12:00 pm EDT"
+    },
+    {
+        "team_name": "Marsborne",
+        "payment_timestamp": "Aug 11, 2025 12:00 pm EDT"
+    },
+    {
+        "team_name": "getting info",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "ENCE",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "Enigma",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "Wanted Goons",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "Wildcard",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "SAW",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "MIGHT",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "Bounty Hunters",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "Sharks",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "FASTMEN",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "9INE AB",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "Syracuse Orange",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "BIG",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "Ninjas In Pyjamas",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "Metizport",
+        "payment_timestamp": "Aug 11, 2025 12:01 pm EDT"
+    },
+    {
+        "team_name": "Copenhagen Wolves",
+        "payment_timestamp": "Aug 11, 2025 12:02 pm EDT"
+    },
+    {
+        "team_name": "EYEBALLERS",
+        "payment_timestamp": "Aug 11, 2025 12:02 pm EDT"
+    },
+    {
+        "team_name": "BESTIA",
+        "payment_timestamp": "Aug 11, 2025 12:02 pm EDT"
+    },
+    {
+        "team_name": "TOKUGAWA",
+        "payment_timestamp": "Aug 11, 2025 12:02 pm EDT"
+    },
+    {
+        "team_name": "Inner Circle",
+        "payment_timestamp": "Aug 11, 2025 12:02 pm EDT"
+    },
+    {
+        "team_name": "9z",
+        "payment_timestamp": "Aug 11, 2025 12:02 pm EDT"
+    },
+    {
+        "team_name": "Fnatic",
+        "payment_timestamp": "Aug 11, 2025 12:02 pm EDT"
+    },
+    {
+        "team_name": "AaB",
+        "payment_timestamp": "Aug 11, 2025 12:02 pm EDT"
+    },
+    {
+        "team_name": "Simplicity",
+        "payment_timestamp": "Aug 11, 2025 12:03 pm EDT"
+    },
+    {
+        "team_name": "KOLESIE",
+        "payment_timestamp": "Aug 11, 2025 12:03 pm EDT"
+    },
+    {
+        "team_name": "500",
+        "payment_timestamp": "Aug 11, 2025 12:03 pm EDT"
+    },
+    {
+        "team_name": "MINLATE",
+        "payment_timestamp": "Aug 11, 2025 12:03 pm EDT"
+    },
+    {
+        "team_name": "OG Esports",
+        "payment_timestamp": "Aug 11, 2025 12:03 pm EDT"
+    },
+    {
+        "team_name": "Zero Tenacity",
+        "payment_timestamp": "Aug 11, 2025 12:03 pm EDT"
+    },
+    {
+        "team_name": "ECSTATIC",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "Gabagool",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "LAG",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "BOSS",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "Chicken Coop",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "TeXaSs Outlaws",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "F5 Esports",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "Wicked",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "Good Game Family",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "zomblers",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "BLUEJAYS",
+        "payment_timestamp": "Aug 14, 2025 6:00 pm EDT"
+    },
+    {
+        "team_name": "Liquid",
+        "payment_timestamp": "Sep 12, 2025 5:00 pm EDT"
+    },
+    {
+        "team_name": "NJ Spray And Pray Club",
+        "payment_timestamp": "Sep 12, 2025 5:00 pm EDT"
+    }
+]
