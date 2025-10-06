@@ -1,3 +1,22 @@
 [
-    
+    {
+        "team_name": "UCF Knights",
+        "payment_timestamp": "Oct 5, 2025 10:42 pm"
+    },
+    {
+        "team_name": "Wildcard",
+        "payment_timestamp": "Oct 5, 2025 10:42 pm"
+    },
+    {
+        "team_name": "ESC Gaming",
+        "payment_timestamp": "Oct 5, 2025 10:43 pm"
+    },
+    {
+        "team_name": "Texass outlaws",
+        "payment_timestamp": "Oct 5, 2025 10:43 pm"
+    },
+    {
+        "team_name": "Frenemies",
+        "payment_timestamp": "Oct 5, 2025 10:44 pm"
+    }
 ]
