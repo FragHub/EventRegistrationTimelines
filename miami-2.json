@@ -30,5 +30,17 @@
     {
         "team_name": "Skinrave",
         "payment_timestamp": "Oct 6, 2025 1:04 am EDT"
+    },
+    {
+        "team_name": "Team Factor",
+        "payment_timestamp": "Oct 6, 2025 3:12 pm EDT"
+    },
+    {
+        "team_name": "UAH",
+        "payment_timestamp": "Oct 6, 2025 3:33 pm EDT"
+    },
+    {
+        "team_name": "Marsborne",
+        "payment_timestamp": "Oct 6, 2025 8:22 pm EDT"
     }
 ]
