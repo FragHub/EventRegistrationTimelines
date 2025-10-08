@@ -126,5 +126,17 @@
     {
         "team_name": "BIG",
         "payment_timestamp": "Sep 18, 2025 8:15 am EDT"
+    },
+    {
+        "team_name": "NuTorious",
+        "payment_timestamp": "Oct 7, 2025 7:01 pm EDT"
+    },
+    {
+        "team_name": "Reactor 9",
+        "payment_timestamp": "Oct 7, 2025 7:01 pm EDT"
+    },
+    {
+        "team_name": "Skinrave",
+        "payment_timestamp": "Oct 7, 2025 7:02 pm EDT"
     }
 ]
