@@ -46,5 +46,9 @@
     {
         "team_name": "Team Venom",
         "payment_timestamp": "Nov 3, 2025 6:44 pm EST"
+    },
+    {
+        "team_name": "Team Kiri",
+        "payment_timestamp": "Nov 9, 2025, 10:31:58 PM CST (New Format)"
     }
 ]
