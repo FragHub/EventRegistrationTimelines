@@ -110,5 +110,9 @@
     {
         "team_name": "Sharks",
         "payment_timestamp": "Dec 8, 2025, 4:45:32 PM CST (New Format)"
+    },
+    {
+        "team_name": "M80",
+        "payment_timestamp": "Dec 10, 2025, 11:16:02 AM CST (New Format)"
     }
 ]
