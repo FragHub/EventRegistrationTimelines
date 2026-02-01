@@ -61,7 +61,8 @@
     },
     {
         "team_name": "Wildcard Gaming",
-        "payment_timestamp": "Dec 20, 2025, 3:25:12 PM CST"
+        "payment_timestamp": "Dec 20, 2025, 3:25:12 PM CST",
+        "withdrawn": true
     },
     {
         "team_name": "FUELED BY HATE",
@@ -129,7 +130,8 @@
     },
     {
         "team_name": "Rave",
-        "payment_timestamp": "Jan 3, 2026, 9:19:02 AM CST"
+        "payment_timestamp": "Jan 3, 2026, 9:19:02 AM CST",
+        "withdrawn": true
     },
     {
         "team_name": "Crippling Debt",
@@ -158,5 +160,25 @@
     {
         "team_name": "Sharks",
         "payment_timestamp": "Jan 15, 2026, 4:08:00 PM CST"
+    },
+    {
+        "team_name": "absolute cinema",
+        "payment_timestamp": "Jan 31, 2026, 5:00:20 PM CST"
+    },
+    {
+        "team_name": "BOSS",
+        "payment_timestamp": "Jan 31, 2026, 5:00:27 PM CST"
+    },
+    {
+        "team_name": "Unproven",
+        "payment_timestamp": "Jan 31, 2026, 5:00:55 PM CST"
+    },
+    {
+        "team_name": "Aim Chuds",
+        "payment_timestamp": "Jan 31, 2026, 5:04:04 PM CST"
+    },
+    {
+        "team_name": "Empire",
+        "payment_timestamp": "Jan 31, 2026, 5:09:36 PM CST"
     }
 ]
