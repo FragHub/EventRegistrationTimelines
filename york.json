@@ -99,7 +99,8 @@
     },
     {
         "team_name": "BESTIA",
-        "payment_timestamp": "Dec 22, 2025, 11:32:36 AM CST"
+        "payment_timestamp": "Dec 22, 2025, 11:32:36 AM CST",
+        "withdrawn": true
     },
     {
         "team_name": "Demolition",
