@@ -173,7 +173,8 @@
     },
     {
         "team_name": "Unproven",
-        "payment_timestamp": "Jan 31, 2026, 5:00:55 PM CST"
+        "payment_timestamp": "Jan 31, 2026, 5:00:55 PM CST",
+        "withdrawn": true
     },
     {
         "team_name": "Aim Chuds",
