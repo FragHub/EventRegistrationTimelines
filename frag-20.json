@@ -1,4 +1,36 @@
-[
+[    
+    {
+        "team_name": "M80",
+        "payment_timestamp": "Direct Playoffs Invite"
+    },    
+    {
+        "team_name": "Passion UA",
+        "payment_timestamp": "Direct Playoffs Invite"
+    },
+    {
+        "team_name": "Marsborne",
+        "payment_timestamp": "Direct Playoffs Invite"
+    },
+    {
+        "team_name": "Voca",
+        "payment_timestamp": "Direct Playoffs Invite"
+    },
+    {
+        "team_name": "Zomblers",
+        "payment_timestamp": "Direct Playoffs Invite"
+    },
+    {
+        "team_name": "InControl",
+        "payment_timestamp": "Direct Playoffs Invite"
+    },
+    {
+        "team_name": "ChickenCoop",
+        "payment_timestamp": "Direct Playoffs Invite"
+    },
+    {
+        "team_name": "LAG",
+        "payment_timestamp": "Direct Playoffs Invite"
+    },
     {
         "team_name": "67 Matcha Labubu",
         "payment_timestamp": "Jan 4, 2026, 9:34:04 PM CST"
