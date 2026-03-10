@@ -21,7 +21,8 @@
     },
     {
         "team_name": "Marsborne",
-        "payment_timestamp": "Dec 20, 2025, 3:05:58 PM CST"
+        "payment_timestamp": "Dec 20, 2025, 3:05:58 PM CST",
+        "withdrawn": true
     },
     {
         "team_name": "Team Factor",
@@ -120,7 +121,8 @@
     },
     {
         "team_name": "Semper Fi",
-        "payment_timestamp": "Dec 28, 2025, 7:36:48 AM CST"
+        "payment_timestamp": "Dec 28, 2025, 7:36:48 AM CST",
+        "withdrawn": true
     },
     {
         "team_name": "Memeories",
@@ -157,11 +159,13 @@
     },
     {
         "team_name": "M80",
-        "payment_timestamp": "Jan 14, 2026, 12:18:12 PM CST"
+        "payment_timestamp": "Jan 14, 2026, 12:18:12 PM CST",
+        "withdrawn": true
     },
     {
         "team_name": "Sharks",
-        "payment_timestamp": "Jan 15, 2026, 4:08:00 PM CST"
+        "payment_timestamp": "Jan 15, 2026, 4:08:00 PM CST",
+        "withdrawn": true
     },
     {
         "team_name": "absolute cinema",
