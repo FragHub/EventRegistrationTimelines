@@ -8,10 +8,6 @@
         "payment_timestamp": "Direct Stage 2 Invite"
     },
     {
-        "team_name": "Marsborne",
-        "payment_timestamp": "Direct Stage 2 Invite"
-    },
-    {
         "team_name": "Voca",
         "payment_timestamp": "Direct Stage 2 Invite"
     },
@@ -81,7 +77,8 @@
     },
     {
         "team_name": "BOSS",
-        "payment_timestamp": "Feb 15, 2026, 10:29:57 AM CST"
+        "payment_timestamp": "Feb 15, 2026, 10:29:57 AM CST",
+        "withdrawn": true
     },
     {
         "team_name": "NRG",
@@ -118,5 +115,13 @@
     {
         "team_name": "Fisher College",
         "payment_timestamp": "Apr 7, 2026, 5:07:31 PM CDT"
+    },
+    {
+        "team_name": "The Clubhouse",
+        "payment_timestamp": "Apr 10, 2026, 9:34:02 AM CDT"
+    },
+    {
+        "team_name": "Marsborne",
+        "payment_timestamp": "Apr 10, 2026, 8:27:55 PM CDT"
     }
 ]
