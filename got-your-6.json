@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "team_name": "Clockwork",
+    "payment_timestamp": "4/17/26 22:14 UTC"
+  },  
+  {
+    "team_name": "FRZ Unit",
+    "payment_timestamp": "4/17/26 22:14 UTC"
+  },
+  {
+    "team_name": "FC Detonate",
+    "payment_timestamp": "4/17/26 22:14 UTC"
+  },
+  {
+    "team_name": "Team Fathom Gaming",
+    "payment_timestamp": "4/17/26 22:14 UTC"
+  }
+]
