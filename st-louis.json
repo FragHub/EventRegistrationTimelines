@@ -29,7 +29,8 @@
     },
     {
         "team_name": "Boomer Shooters",
-        "payment_timestamp": "Jun 18, 2026 at 2:19:00 PM CDT"
+        "payment_timestamp": "Jun 18, 2026 at 2:19:00 PM CDT",
+        "withdrawn": true
     },
     {
         "team_name": "penazoid",
@@ -85,7 +86,8 @@
     },
     {
         "team_name": "F5 Esports",
-        "payment_timestamp": "Jul 18, 2026 at 3:55:19 PM CDT"
+        "payment_timestamp": "Jul 18, 2026 at 3:55:19 PM CDT",
+        "withdrawn": true
     },
     {
         "team_name": "Redliners",
