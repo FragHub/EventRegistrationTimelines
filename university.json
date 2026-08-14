@@ -1,1 +1,26 @@
-[]
+[
+  {
+      "team_name": "NRG",
+      "payment_timestamp": "Aug 14, 2026, 5:00:38 PM CDT"
+  },
+  {
+      "team_name": "Unreal Nightmare",
+      "payment_timestamp": "Aug 14, 2026, 5:00:43 PM CDT"
+  },
+  {
+      "team_name": "M80",
+      "payment_timestamp": "Aug 14, 2026, 5:02:22 PM CDT"
+  },
+  {
+      "team_name": "Midwest Maniacs",
+      "payment_timestamp": "Aug 14, 2026, 5:02:53 PM CDT"
+  },
+  {
+      "team_name": "Aspyre",
+      "payment_timestamp": "Aug 14, 2026, 5:02:54 PM CDT"
+  },
+  {
+      "team_name": "Team Fathom Gaming",
+      "payment_timestamp": "Aug 14, 2026, 5:18:45 PM CDT"
+  }
+]
