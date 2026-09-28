@@ -9,7 +9,8 @@
   },
   {
       "team_name": "M80",
-      "payment_timestamp": "Aug 14, 2026, 5:02:22 PM CDT"
+      "payment_timestamp": "Aug 14, 2026, 5:02:22 PM CDT",
+      "withdrawn": true
   },
   {
       "team_name": "Midwest Maniacs",
