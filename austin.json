@@ -162,5 +162,17 @@
     {
         "team_name": "Sharp",
         "payment_timestamp": "Oct 7, 2026, 8:01:23 PM EDT"
+    },
+    {
+        "team_name": "Mito 3HC",
+        "payment_timestamp": "Oct 8, 2026, 1:12:04 AM EDT"
+    },
+    {
+        "team_name": "100 Thieves Roobet",
+        "payment_timestamp": "Oct 8, 2026, 8:27:17 AM EDT"
+    },
+    {
+        "team_name": "Pixelation",
+        "payment_timestamp": "Oct 8, 2026, 1:51:13 PM EDT"
     }
 ]
